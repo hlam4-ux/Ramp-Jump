@@ -8,6 +8,6 @@ int main()
 
   double h, v, angle;
 
-  co
+  cout << 
   cout << "Hello world" << endl;
 }
