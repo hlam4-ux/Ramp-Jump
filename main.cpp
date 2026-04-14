@@ -13,6 +13,6 @@ int main()
   cout << "Enter velocity";
   cin >> v;
   cout << "Enter angle";
-  
+  cin >> 
   cout << "Hello world" << endl;
 }
