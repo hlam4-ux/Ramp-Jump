@@ -19,5 +19,7 @@ int main()
 
   double vx = v * cos(rad);
   double vy = v * sin(rad);
+
+  
   cout << "Hello world" << endl;
 }
