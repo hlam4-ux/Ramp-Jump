@@ -11,5 +11,6 @@ int main()
   cout << " Enter ramp height";
   cin >> h;
   cout << "Enter velocity";
+  cin >> v;
   cout << "Hello world" << endl;
 }
