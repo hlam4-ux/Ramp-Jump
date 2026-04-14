@@ -3,6 +3,7 @@
 using namespace std;
 
 int main()
-{ const
+{ const double g = 32.17405;
+  
   cout << "Hello world" << endl;
 }
