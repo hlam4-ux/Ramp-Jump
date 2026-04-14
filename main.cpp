@@ -17,6 +17,6 @@ int main()
 
   double rad  = angle * pi / 180;
 
-  double vx =
+  double vx = v * cos(rad)
   cout << "Hello world" << endl;
 }
