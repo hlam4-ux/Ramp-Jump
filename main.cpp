@@ -15,6 +15,6 @@ int main()
   cout << "Enter angle";
   cin >> angle;
 
-  double
+  double rad  = angle*
   cout << "Hello world" << endl;
 }
