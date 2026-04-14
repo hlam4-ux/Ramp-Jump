@@ -15,6 +15,6 @@ int main()
   cout << "Enter angle";
   cin >> angle;
 
-  
+  double
   cout << "Hello world" << endl;
 }
