@@ -9,6 +9,7 @@ int main()
   double h, v, angle;
 
   cout << " Enter ramp height";
-  cin>> h;
+  cin >> h;
+  
   cout << "Hello world" << endl;
 }
