@@ -15,6 +15,6 @@ int main()
   cout << "Enter angle";
   cin >> angle;
 
-  double rad  = angle*
+  double rad  = angle * pi / 180
   cout << "Hello world" << endl;
 }
