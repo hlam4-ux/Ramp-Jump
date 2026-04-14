@@ -20,6 +20,6 @@ int main()
   double vx = v * cos(rad);
   double vy = v * sin(rad);
 
-  double temp = vy * vy 
+  double temp = vy * vy +2 * g
   cout << "Hello world" << endl;
 }
