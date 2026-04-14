@@ -26,6 +26,6 @@ int main()
   double dist = vx * time;
   double speed = sqrt(vx * vx + temp);
   
-  cout << 
+  cout << "vx"
   cout << "Hello world" << endl;
 }
