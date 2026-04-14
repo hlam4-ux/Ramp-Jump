@@ -10,6 +10,6 @@ int main()
 
   cout << " Enter ramp height";
   cin >> h;
-  
+  cout<< 
   cout << "Hello world" << endl;
 }
