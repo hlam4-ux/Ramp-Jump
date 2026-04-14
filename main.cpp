@@ -8,6 +8,6 @@ int main()
 
   double h, v, angle;
 
-  cout << " Enter ramp height:";
+  cout << " Enter ramp height";
   cout << "Hello world" << endl;
 }
