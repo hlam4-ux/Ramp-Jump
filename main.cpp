@@ -29,6 +29,6 @@ int main()
   cout << "vx" << vx << endl;
   cout << "time" << time << endl;
   cout << "max height" << maxH << endl;
-  
+  cout << "distance"
   
 }
