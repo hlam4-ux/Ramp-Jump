@@ -24,6 +24,7 @@ int main()
   double time = (vy * sqrt(temp))/g;
   double maxH = h + (vy* vy) / (2 * g);
   double dist = vx * time;
-  double speed = sqrt(v)
+  double speed = sqrt(vx * vx + temp);
+  
   cout << "Hello world" << endl;
 }
