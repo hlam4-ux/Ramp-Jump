@@ -28,6 +28,6 @@ int main()
   
   cout << "vx" << vx << endl;
   cout << "time" << time << endl;
-  cout << ""
+  cout << "max height" 
   
 }
