@@ -21,6 +21,6 @@ int main()
   double vy = v * sin(rad);
 
   double temp = vy * vy +2 * g * h;
-  double time = (vy * )
+  double time = (vy * sqrt(temp))
   cout << "Hello world" << endl;
 }
