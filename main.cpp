@@ -30,6 +30,6 @@ int main()
   cout << "time" << time << endl;
   cout << "max height" << maxH << endl;
   cout << "distance" << dist << endl;
-  cout << "speed"
+  cout << "speed" << speed << endl;
   
 }
