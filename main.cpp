@@ -22,6 +22,6 @@ int main()
 
   double temp = vy * vy +2 * g * h;
   double time = (vy * sqrt(temp))/g;
-  double
+  double maxH = 
   cout << "Hello world" << endl;
 }
